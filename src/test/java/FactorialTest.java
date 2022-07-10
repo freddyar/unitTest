@@ -1,4 +1,4 @@
-import ejemploMock.CalculatorAvanzada;
+import exampleMock.CalculatorAvanzada;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

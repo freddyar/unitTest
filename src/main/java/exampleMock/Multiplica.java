@@ -1,4 +1,4 @@
-package ejemploMock;
+package exampleMock;
 
 /**
  * @author freddyar
