@@ -1,5 +1,5 @@
-import ejemploMock.CalculatorAvanzada;
-import ejemploMock.Multiplica;
+import exampleMock.CalculatorAvanzada;
+import exampleMock.Multiplica;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
